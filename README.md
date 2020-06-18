@@ -2,6 +2,8 @@
 
 An Elastic-Net Regularized Presence-Only Model
 
+## Introduction
+
 Presence-only model with Elastic Net penalty is a regularized generalized linear model training on the presence-absence response. This package provides functions for tuning and fitting the presence-only model. The presence-only model can be used to predict regulatory effects of genetic variants at sequence-level resolution by integrating a large number of epigenetic features and massively parallel reporter assays (MPRAs).
 
 ## Manual
