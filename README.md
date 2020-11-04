@@ -1,6 +1,11 @@
 # PO.EN
 
-An Elastic-Net Regularized Presence-Only Model
+<!-- An Elastic-Net Regularized Presence-Only Model -->
+This repository contains implementations and R package to accompany our PO-EN paper. The subdirectory [manuscript](https://github.com/Iuliana-Ionita-Laza/PO.EN/tree/master/manuscript) contains the code and data to reproduce the analysis in our paper.
+
+If you use the code here, please cite our publication:
+
+> Zikun Yang et al. A robust semi-supervised model to predict regulatory effects of genetic variants at single nucleotide resolution using massively parallel reporter assays, with applications to fine-mapping of GWAS loci.
 
 ## Introduction
 
@@ -23,4 +28,5 @@ Install PO.EN in R:
 ```
 
 # Citation
-TBA
+
+Zikun Yang et al. A robust semi-supervised model to predict regulatory effects of genetic variants at single nucleotide resolution using massively parallel reporter assays, with applications to fine-mapping of GWAS loci.
